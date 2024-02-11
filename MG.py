@@ -1,5 +1,5 @@
 import streamlit as st
-from altair import Chartf
+from altair import Chart
 from requests import post
 from pydub import AudioSegment
 from io import BytesIO
